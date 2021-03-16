@@ -1,0 +1,109 @@
+.container {
+    max-width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.container .row {
+    padding-right: 0px;
+}
+
+.card {
+    border-radius: 0%;
+    background-color: black;
+    margin-top: 80px;
+    color: white;
+    border-radius: 10px;
+}
+
+.card-text {
+    color: white;
+}
+
+.card-text:hover {
+    color: violet;
+}
+
+.card-title {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    height: auto;
+}
+
+.navbar-nav {
+    padding-right: 10px;
+    color: white;
+}
+
+.nav-item {
+    padding-right: 25px;
+}
+
+#paralax {
+    background-image: url(../gambar/jam.png);
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: 0 -100px;
+    height: 100vh;
+}
+
+#paralax h1{
+    color: white;
+    font-family: arial;
+}
+
+#about,
+#profile {
+    background-color: white;
+}
+
+.bg-light {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.bg-nontrans {
+    background-color: rgb(15, 15, 15) !important;
+}
+
+.banner {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner video {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    object-fit: cover;
+}
+
+.banner h1 {
+    font-size: 80px;
+    position: absolute;
+    z-index: 2;
+    color: white;
+}
+
+.about{
+    width: 500px;
+    text-align: justify;
+    margin-left: 100px;
+}
+
+#about {
+    background-image: url(../gambar/steve5.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: -20px;
+    height: 800px;
+}
+
+#profile{
+    height: 800px;
+}
