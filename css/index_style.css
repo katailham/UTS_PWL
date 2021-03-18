@@ -91,7 +91,7 @@ section {
 }
 
 .about{
-    width: 500px;
+    width: 550px;
     text-align: justify;
     margin-left: 100px;
 }
@@ -104,6 +104,10 @@ section {
     height: 800px;
 }
 
-#profile{
+#gallery{
+    height: 800px;
+}
+
+#contact{
     height: 800px;
 }
