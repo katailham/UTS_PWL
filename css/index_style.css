@@ -46,8 +46,8 @@ section {
     background-image: url(../gambar/jam.png);
     background-attachment: fixed;
     background-size:cover;
-    background-position: 0 -130px;
-    height: 600px;
+    background-position: 0 -100px;
+    height: 100vh;
 }
 
 #paralax h1{
@@ -88,4 +88,22 @@ section {
     position: absolute;
     z-index: 2;
     color: white;
+}
+
+.about{
+    width: 500px;
+    text-align: justify;
+    margin-left: 100px;
+}
+
+#about {
+    background-image: url(../gambar/steve5.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: -20px;
+    height: 800px;
+}
+
+#profile{
+    height: 800px;
 }
