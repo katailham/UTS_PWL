@@ -9,11 +9,9 @@
 }
 
 .card {
-    border-radius: 0%;
     background-color: black;
     margin-top: 80px;
     color: white;
-    border-radius: 10px;
 }
 
 .card-text {
