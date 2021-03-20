@@ -9,11 +9,9 @@
 }
 
 .card {
-    border-radius: 0%;
     background-color: black;
     margin-top: 80px;
     color: white;
-    border-radius: 10px;
 }
 
 .card-text {
@@ -91,7 +89,7 @@ section {
 }
 
 .about{
-    width: 500px;
+    width: 550px;
     text-align: justify;
     margin-left: 100px;
 }
@@ -101,9 +99,9 @@ section {
     background-size: cover;
     background-attachment: fixed;
     margin-top: -20px;
-    height: 900px;
+    height: 800px;
 }
 
-#profile{
+#contact{
     height: 800px;
 }
