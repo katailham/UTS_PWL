@@ -1,4 +1,4 @@
-.container {
+ .container {
     max-width: 100%;
     margin-left: 0px;
     margin-right: 0px;
@@ -103,5 +103,10 @@ section {
 }
 
 #contact{
-    height: 800px;
+    height: auto;
+    background-color: white;
+}
+
+#contact .row{
+    width: 100%;
 }
